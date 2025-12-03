@@ -26,6 +26,19 @@ Este projeto é sobre uma calculadora de descontos de produtos
 * git clone https://github.com/nunes-1811/calculadoradedescontos.git
 * *No menu: File(Arquivo) > Clone a repositor(Clonar repositório) > Selecione a aba URL, no campo URL, cole o link do repositório https://github.com/nunes-1811/calculadoradedescontos.git
 
+## 💡Melhorias Futuras
+* Visualização da página
+* Organização da interface
+* Forma mais simples de ultilização do site
+
+## ⚡Aprendizado
+* Usar o JS para fazer calculos
+* Usar o JS para selecionar forma de pagamentos
+
+## Autor
+* Desenvolvido por Kaio 
+* Turma de Tecnologia em Informática para internet (Turno Matutino) – Senac DF
+
 
 
 
