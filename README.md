@@ -18,8 +18,8 @@ Este projeto é sobre uma calculadora de descontos de produtos
 
 ## 👨🏽‍💻Como rodar
 * 1. Baixe o repositório (Clique no Botão “Code” > Download ZIP)
-       *  2. Extraia a pasta
-       *  3. Abra o arquivo index.html no navegador
+* 2. Extraia a pasta
+* 3. Abra o arquivo index.html no navegador
 
 
 
